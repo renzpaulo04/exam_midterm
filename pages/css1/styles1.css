@@ -24,8 +24,10 @@ header {
     color: #f0ffff;
     font-family: Odachi;
     font-size: 1.8rem;
-    margin-right: 35rem;
-    text-decoration: none
+    margin-right: 30rem;
+    text-decoration: none;
+    justify-content: space-evenly;
+    list-style: none;
 }
 nav {
     min-height: 10vh;
@@ -33,6 +35,8 @@ nav {
     display: flex;
     align-items: center ;
     justify-content: space-evenly;
+    text-decoration: none;
+    list-style: none;
 }
 ul {
     display: flex;
